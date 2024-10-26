@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthpatel2458" alt="parthpatel2458" /></a> </p>
 
-- 🌱 I’m currently learning **Power Bi, Business Models**
-
 - 💬 Ask me about **Data Anywhere**
 
 - 📫 How to reach me **parth.patel2458@gmail.com**
